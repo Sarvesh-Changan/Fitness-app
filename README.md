@@ -9,7 +9,9 @@
   <p>This React.js and Material-UI based fitness app utilizes Rapid API to fetch exercises categorized by body parts. It enhances user experience by integrating YouTube video references for each exercise, ensuring proper form and technique.</p>
 
   <h2>Image</h2>
+  <a href="https://fitness-app-jade-psi.vercel.app/" target="_blank">
   <img src="website-screenshot.png" alt="Fitness App Screenshot" class="app-screenshot">
+  </a>
   <h2>Features</h2>
   <ul>
     <li><strong>Exercise Display:</strong> Browse exercises categorized by body parts (e.g., arms, legs).</li>
