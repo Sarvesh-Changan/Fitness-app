@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fitness App</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+    }
+    h1 {
+      font-size: 28px;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+    h2 {
+      font-size: 24px;
+      margin-top: 20px;
+      margin-bottom: 10px;
+    }
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+    code {
+      background-color: #f0f0f0;
+      padding: 2px 5px;
+      border-radius: 3px;
+      font-family: Consolas, monospace;
+    }
+    .contact {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Fitness App</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h2>Overview</h2>
+  <p>This React.js and Material-UI based fitness app utilizes Rapid API to fetch exercises categorized by body parts. It enhances user experience by integrating YouTube video references for each exercise, ensuring proper form and technique.</p>
 
-## Available Scripts
+  <h2>Features</h2>
+  <ul>
+    <li><strong>Exercise Display:</strong> Browse exercises categorized by body parts (e.g., arms, legs).</li>
+    <li><strong>YouTube Video References:</strong> Each exercise includes a link to a YouTube video for visual guidance.</li>
+    <li><strong>Responsive Design:</strong> Optimized for various devices with a user-friendly interface.</li>
+  </ul>
 
-In the project directory, you can run:
+  <h2>Technologies Used</h2>
+  <ul>
+    <li>React.js</li>
+    <li>Material-UI</li>
+    <li>Rapid API</li>
+  </ul>
 
-### `npm start`
+  <h2>Installation</h2>
+  <ol>
+    <li>Clone the repository: <code>git clone https://github.com/your-username/fitness-app.git</code></li>
+    <li>Navigate into the project directory: <code>cd fitness-app</code></li>
+    <li>Install dependencies: <code>npm install</code></li>
+    <li>Start the development server: <code>npm start</code></li>
+  </ol>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <h2>Usage</h2>
+  <ul>
+    <li>Select a body part to view relevant exercises.</li>
+    <li>Click on an exercise to watch a related YouTube video for guidance.</li>
+  </ul>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  <h2>Contributing</h2>
+  <p>Contributions are welcome! Fork the repository and submit a pull request.</p>
 
-### `npm test`
+  <h2>License</h2>
+  <p>This project is licensed under the MIT License.</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  <h2 class="contact">Contact</h2>
+  <p>For inquiries, contact <a href="mailto:changansarvesh0@gmail.com">your-email@example.com</a>.</p>
+</body>
+</html>
