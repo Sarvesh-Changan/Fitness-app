@@ -41,10 +41,7 @@
   <h2>Contributing</h2>
   <p>Contributions are welcome! Fork the repository and submit a pull request.</p>
 
-  <h2>License</h2>
-  <p>This project is licensed under the MIT License.</p>
-
   <h2 class="contact">Contact</h2>
-  <p>For inquiries, contact <a href="mailto:changansarvesh0@gmail.com">your-email@example.com</a>.</p>
+  <p>For inquiries, contact <a href="mailto:changansarvesh0@gmail.com">changansarvesh0@gmail.com</a>.</p>
 </body>
 </html>
