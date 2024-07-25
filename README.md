@@ -40,7 +40,7 @@
 
   <h2>View Live</h2>
   <div class="live-link">
-    <a href="https://fitness-app-jade-psi.vercel.app/ target="_blank">View Live</a>
+    <a href="https://fitness-app-jade-psi.vercel.app target="_blank">View Live</a>
   </div>
 
   <h2>Contributing</h2>
