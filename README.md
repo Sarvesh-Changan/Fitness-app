@@ -41,9 +41,20 @@
   </ul>
 
   <h2 style='justify-content: 'center'; align-items: 'center';>View Live</h2>
-  <div class="live-link">
-    <a href="https://fitness-app-jade-psi.vercel.app/" target="_blank">View Live</a>
-  </div>
+  <div style="background-color: aliceblue; text-align: left; padding: 20px;">
+        <a href="https://fitness-app-jade-psi.vercel.app/" target="_blank" 
+           style="
+               display: inline-block;
+               padding: 10px 20px;
+               background-color: #007bff;
+               color: white;
+               text-decoration: none;
+               border-radius: 25px;
+               font-weight: bold;
+           ">
+            View Live
+        </a>
+    </div>
 
   <h2>Contributing</h2>
   <p>Contributions are welcome! Fork the repository and submit a pull request.</p>
