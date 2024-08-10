@@ -40,7 +40,7 @@
     <li>Click on an exercise to watch a related YouTube video for guidance.</li>
   </ul>
 
-  <h2>View Live</h2>
+  <h2 style='justify-content: 'center'; align-items: 'center';>View Live</h2>
   <div class="live-link">
     <a href="https://fitness-app-jade-psi.vercel.app/" target="_blank">View Live</a>
   </div>
