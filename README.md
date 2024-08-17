@@ -12,6 +12,14 @@
   <a href="https://fitness-app-jade-psi.vercel.app" target="_blank">
   <img src="website-screenshot.png" alt="Fitness App Screenshot" class="app-screenshot">
   </a>
+
+  <h2>View Live</h2>
+  <div>
+        <a href="https://fitness-app-jade-psi.vercel.app/" target="_blank">
+            View Live
+        </a>
+  </div>
+  
   <h2>Features</h2>
   <ul>
     <li><strong>Exercise Display:</strong> Browse exercises categorized by body parts (e.g., arms, legs).</li>
@@ -39,13 +47,6 @@
     <li>Select a body part to view relevant exercises.</li>
     <li>Click on an exercise to watch a related YouTube video for guidance.</li>
   </ul>
-
-  <h2>View Live</h2>
-  <div>
-        <a href="https://fitness-app-jade-psi.vercel.app/" target="_blank">
-            View Live
-        </a>
-  </div>
 
   <h2>Contributing</h2>
   <p>Contributions are welcome! Fork the repository and submit a pull request.</p>
